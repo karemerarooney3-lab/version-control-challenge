@@ -28,3 +28,10 @@ Commit:
 git commit -m "message"
 ```
 these are notes
+## Collaboration
+GitHub allows multiple developers to work together.
+
+## Benefits
+- Tracks changes
+- Prevents losing work
+- Supports teamwork

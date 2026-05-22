@@ -19,3 +19,10 @@ Clone the repository:
 ```bash
 git clone <repository-url>
 ```
+## Collaboration
+GitHub allows multiple developers to work together.
+
+## Benefits
+- Tracks changes
+- Prevents losing work
+- Supports teamwork
